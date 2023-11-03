@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67788614719",
+    "project_id": "testofauth-e6ddc",
+    "storage_bucket": "testofauth-e6ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67788614719:android:8e6773a494887635951c8a",
+        "android_client_info": {
+          "package_name": "com.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67788614719-rg8podetsgrcai460p5500togcd6cemu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKnTSNHNGIZy8S2dVvgbXVDA33O-qDjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67788614719-rg8podetsgrcai460p5500togcd6cemu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
